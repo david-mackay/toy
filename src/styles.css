@@ -1,0 +1,31 @@
+.machine{
+    font-family: 'Lato', sans-serif;
+}
+.navbar{
+    text-align: right;
+    font-size:larger;
+    border-radius: 4px;
+    background-color: black;
+}
+.navigate{
+    color: white;
+    background-color: black;
+    border: 0px;
+}
+
+.navigate:hover{
+    color: black;
+    background-color: white;
+    border: 0px;
+}
+body {
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    font-size: large;
+}
+
+.button{
+    border-radius: 4px;
+    background-color: white;
+}
